@@ -1,0 +1,27 @@
+[
+  {
+    "pitanje": "Koga Vaso najviše voli?",
+    "odgovori": ["Pleka", "Mlenka", "Klenka"],
+    "tacan": 0
+  },
+  {
+    "pitanje": "Šta Vaso najviše voli kod Pleka?",
+    "odgovori": ["Fizički izgled", "Stav", "Dušu"],
+    "tacan": 2
+  },
+  {
+    "pitanje": "Šta Vasu najviše smeta kod Pleka?",
+    "odgovori": ["Želja za ulaskom na dark web", "Nečitanje dobrih knjiga", "Tvrdoglavost"],
+    "tacan": 0
+  },
+  {
+    "pitanje": "Šta bi Vaso najviše volio da Pleko uradi?",
+    "odgovori": ["Da uđe na dark web", "Da počne da čita Bibliju", "Da se istetovira"],
+    "tacan": 1
+  },
+  {
+    "pitanje": "Šta bi Vaso i Pleko najradije uradili zajedno?",
+    "odgovori": ["Otišli na trening", "Gledali film", "Naprave malu kucicu na placu i kuliraju tu"],
+    "tacan": 2
+  }
+]
